@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ROOMNOTE</string>
+    <string name="action_settings">Settings</string>
+    <string name="save">Save</string>
+    <string name="new_task">New Note</string>
+    <string name="tasks">Note</string>
+</resources>
